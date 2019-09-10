@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Mark Alaniz | Welcome to my Portfolio`,
+    title: `Portfolio | Mark Alaniz Web Developer`,
         description: `A starter powered by Gatsby and Prismic to showcase portfolios and blogs.`,
     author: `Mark Alaniz | https://github.com/digald`,
   },

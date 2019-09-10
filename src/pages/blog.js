@@ -30,8 +30,8 @@ const BlogGrid = styled("div")`
 const Blog = ({ posts, meta }) => (
     <>
         <Helmet
-            title={`Blog | Prist, Gatsby & Prismic Starter`}
-            titleTemplate={`%s | Blog | Prist, Gatsby & Prismic Starter`}
+            title={`Blog | Mark Alaniz Web Developer`}
+            titleTemplate={`%s | Blog | Mark Alaniz Web Developer`}
             meta={[
                 {
                     name: `description`,
@@ -39,7 +39,7 @@ const Blog = ({ posts, meta }) => (
                 },
                 {
                     property: `og:title`,
-                    content: `Blog | Prist, Gatsby & Prismic Starter`,
+                    content: `Blog | Mark Alaniz Web Developer`,
                 },
                 {
                     property: `og:description`,

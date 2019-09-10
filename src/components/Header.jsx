@@ -14,7 +14,7 @@ const HeaderContent = styled("div")`
   display: flex;
   justify-content: space-between;
   img {
-    max-width: 100px;
+    max-width: 70px;
   }
 `
 
