@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-prismic-starter-prist",
+  "name": "gatsby-portfolio",
   "private": true,
   "description": "A starter powered by Gatsby and Prismic to showcase portfolios and blogs.",
-  "version": "0.1.0",
-  "author": "Marguerite Roth | marguerite.io | marguerite.roth@gmail.com",
+  "version": "1.0.0",
+  "author": "Mark Alaniz | https://markalaniz.netlify.com | markalaniz000@gmail.com",
   "dependencies": {
     "@emotion/core": "^10.0.10",
     "@emotion/styled": "^10.0.12",

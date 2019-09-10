@@ -213,7 +213,7 @@ export const query = graphql`
                     }
                 }
             }
-            allProjects {
+            allProjects(sortBy: meta_lastPublicationDate_DESC, first: 3) {
                 edges {
                     node {
                         project_title

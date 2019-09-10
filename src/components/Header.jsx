@@ -3,7 +3,6 @@ import { Link } from "gatsby"
 import styled from "@emotion/styled"
 import colors from "styles/colors"
 import dimensions from "styles/dimensions"
-// import Logo from "components/_ui/Logo";
 import logo from "../images/ma-logo.svg"
 
 const HeaderContainer = styled("div")`

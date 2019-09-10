@@ -87,7 +87,7 @@ Work.propTypes = {
 export const query = graphql`
     {
         prismic {
-            allProjects {
+            allProjects(sortBy: meta_lastPublicationDate_DESC) {
                 edges {
                     node {
                         project_title
