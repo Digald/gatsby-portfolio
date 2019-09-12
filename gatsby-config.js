@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Portfolio | Mark Alaniz Web Developer`,
-        description: `A starter powered by Gatsby and Prismic to showcase portfolios and blogs.`,
+        description: `A showcase of projects and skills for Mark Alaniz.`,
     author: `Mark Alaniz | https://github.com/digald`,
   },
   plugins: [
@@ -33,11 +33,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-prismic-starter-prist`,
-        short_name: `prist`,
+        name: `Mark Alaniz Portfolio`,
+        short_name: `MA`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#FFC0CB`,
+        theme_color: `#FFC0CB`,
         display: `minimal-ui`,
         icon: `src/images/ma-logo.svg`, // This path is relative to the root of the site.
       },
