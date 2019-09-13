@@ -23,10 +23,9 @@ const Hero = styled("div")`
 
   h1 {
     margin-bottom: 1em;
-    /* font-size: 72px;
-    background: -webkit-linear-gradient(#2193b0, #6dd5ed);
+    background: -webkit-linear-gradient(#f64f59, #c471ed,#12c2e9);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; */
+    -webkit-text-fill-color: transparent;
 
     a {
       text-decoration: none;
