@@ -1,7 +1,7 @@
 {
   "name": "gatsby-portfolio",
   "private": true,
-  "description": "A starter powered by Gatsby and Prismic to showcase portfolios and blogs.",
+  "description": "Portfolio for Mark Alaniz to showcase work and blog.",
   "version": "1.0.0",
   "author": "Mark Alaniz | https://markalaniz.netlify.com | markalaniz000@gmail.com",
   "dependencies": {

@@ -10,6 +10,7 @@ import Button from "components/_ui/Button"
 import About from "components/About"
 import Layout from "components/Layout"
 import ProjectCard from "components/ProjectCard"
+import logo from '../images/ma-logo.svg';
 
 const Hero = styled("div")`
   padding-top: 2.5em;
@@ -140,6 +141,10 @@ const RenderBody = ({ home, projects, meta }) => (
         {
           property: `og:type`,
           content: `website`,
+        },
+        {
+          property: 'og:image',
+          content: {logo}
         },
         {
           name: `twitter:card`,
