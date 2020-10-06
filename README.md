@@ -1,4 +1,4 @@
-![Logo](https://svgshare.com/i/EyQ.svg)
+![Logo](https://i.imgur.com/vukxGDr.png)
 # Portfolio for Mark Alaniz
 
 Personal Portfolio showcasing my work, skills, and interests. Check it out at https://markalaniz.netlify.com/.
