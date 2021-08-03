@@ -57,7 +57,7 @@ const Footer = () => (
       <FooterSpooch src={logo} />
     </Link>
     <FooterAuthor href="https://github.com/digald">
-      © 2019 — Mark Alaniz, Developer
+      © 2021 — Mark Alaniz, Developer
     </FooterAuthor>
     <FooterAuthor>
       Credits for design and development go to Marguerite Roth
