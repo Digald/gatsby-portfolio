@@ -26,7 +26,8 @@ module.exports = {
     {
       resolve: "gatsby-source-prismic",
       options: {
-        repositoryName: "marks-portfolio", // (REQUIRED, replace with your own) prist is the default
+        repositoryName: "marks-portfolio",
+        customTypesApiToken: "",
         linkResolver: (doc) => {
           if (doc.type === "post") {
             return `/${doc.uid}`
